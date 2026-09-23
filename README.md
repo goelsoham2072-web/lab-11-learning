@@ -1,1 +1,1 @@
-# lab-11-learning
+Day 11 Lab 11 focuses on creating an aviation mini-campaign using Canva Magic Studio. It covers brand consistency, AI-generated visuals, Magic Media, Magic Expand and Magic Edit. The lab develops social posts, passenger-awareness posters and presentation visuals while checking accuracy, privacy, branding, ethical use and responsible communication across platforms.
